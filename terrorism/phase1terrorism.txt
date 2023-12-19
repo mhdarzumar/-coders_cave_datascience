@@ -1,0 +1,3 @@
+In this project I learned complete EDA and gain kowledge about python library
+
+here is the link of dataset link: https://www.kaggle.com/datasets/START-UMD/gtd
